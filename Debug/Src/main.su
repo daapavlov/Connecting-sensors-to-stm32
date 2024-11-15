@@ -1,0 +1,13 @@
+main.c:418:13:MX_GPIO_Init	8	static
+main.c:100:6:TIM3_IRQHandler	8	static
+main.c:178:6:InitOfFigureLedDigitDisplay	0	static
+main.c:132:6:InitOfLedScopeBoard	16	static
+main.c:214:6:ConvertingNumberIntoADigitalArray	32	static
+main.c:123:6:TIM2_IRQHandler	8	static
+main.c:222:6:SPI_Receive_8BIT	24	static
+main.c:257:6:SPI_Transmit_8BIT	24	static
+main.c:287:6:Init_GPIO	0	static
+main.c:335:6:Init_SPI	0	static
+main.c:426:6:_Error_Handler	0	static
+main.c:356:6:SystemClock_Config	88	static
+main.c:34:5:main	8	static
